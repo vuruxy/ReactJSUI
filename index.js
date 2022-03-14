@@ -8,4 +8,4 @@ main.get("/", (req, res) => {
 });
 
 main.listen(8080);
-console.log("Application is running on port 3000");
+console.log("Application is running on port 8080");
